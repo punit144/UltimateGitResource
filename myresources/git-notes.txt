@@ -1,0 +1,6 @@
+* git init
+* git add .
+* git commit -m
+* git commit -a -m "MESSAGE"
+* git remote add REMOTEBRACNH
+* git push BRANCHNAME_REMOTE
